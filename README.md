@@ -1,10 +1,5 @@
 # Orbital-Trajectory-Simulation
 Simulated a two-body orbital motion system to evaluate accuracy differences between 1st-order Euler's method and 4th/5th-order adaptive RK45 numerical integration.
-# Project 1: Orbital Trajectory Simulation - Euler's Method vs. RK45
-
-## Overview
-
-**Objective**: Simulated a two-body orbital motion system to evaluate accuracy differences between 1st-order Euler's method and 4th/5th-order adaptive RK45 numerical integration.
 
 **Dataset**: Synthetically generated state vectors using Newton's Law of Universal Gravitation ($GM = 1000.0$)
 
