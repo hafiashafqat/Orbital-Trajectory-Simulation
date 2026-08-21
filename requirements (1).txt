@@ -1,0 +1,14 @@
+# Core Python & scientific computing (used from basics through advanced lessons)
+numpy
+pandas
+matplotlib
+
+# Notebook environment (for local Jupyter use)
+jupyter
+notebook
+
+# Astronomy (used in later astronomy-applications lessons)
+astropy
+
+# Interactive widgets (useful for teaching demos in notebooks)
+ipywidgets
